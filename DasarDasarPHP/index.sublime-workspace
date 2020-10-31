@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"txt_login"
+			],
+			[
+				"login",
+				"txt_login"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"absolute\tposition"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"margo",
+				"margin-bottom\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"gri",
+				"grid-column\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tex-al",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/BayuTutor/absensi_php/login.php",
+		"/C/xampp/htdocs/BayuTutor/absensi_php/css/freelancer.css",
+		"/C/xampp/htdocs/BayuTutor/absensi_php/index.php",
+		"/C/xampp/htdocs/BayuTutor/absensi_php/css/bootstrap-rtl.min.css",
+		"/C/xampp/htdocs/BayuTutor/absensi_php/css/bootstrap.min.css",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/lecturer_proses.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/matakuliah_proses.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/matakuliah_input.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/logout.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/matakuliah_index.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/mahasiwa_index.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/matakuliah_edit.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/index.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/login.php",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/style.css",
+		"/C/xampp/htdocs/TugasKELOMPOK(S5)/DasarDasarPHP/style",
+		"/D/Documen Tugas/ItK/S4/WEB/coronaPIXEL/designs.js",
+		"/D/Documen Tugas/ItK/S4/WEB/coronaPIXEL/styles.css",
+		"/D/Documen Tugas/ItK/S4/WEB/coronaPIXEL/CoronPixel.html",
+		"/D/Documen Tugas/ItK/S4/WEB/WEBProjek 1/SelesaiProjek1/PageSignin/LoginSingin.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/PageSignin/LoginSingin.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/PageCivic/PageCivic.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/PageNSX/PageNSX.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/PageMobilio/PageMobilio.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/PageShop/PageShop.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/loginnweb/LOGIN.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/loginnweb/LoginSingin.html",
+		"/D/Documen Tugas/ItK/S4/WEB/projek1Jadi/Project 1 Sisa Sign In/loginnweb/homepageAbalabal.html",
+		"/F/Project 1/Styles.css",
+		"/F/Project 1/wew.css",
+		"/F/Project 1/LOGIN.html",
+		"/F/Project 1/homepageAbalabal.html",
+		"/F/Project 1/index1.html",
+		"/D/Documen Tugas/ItK/S4/WEB/cobaa22/bootstrap.css",
+		"/D/LOGIN",
+		"/D/Documen Tugas/ItK/S4/WEB/tes/css/style.css",
+		"/D/Documen Tugas/ItK/S4/WEB/tes/coba.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
